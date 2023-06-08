@@ -14,7 +14,7 @@ http://localhost/func_get_args-glob
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/crud-with-image/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/func_get_args-glob/main/Screenshots/Output.png)
 
 
 ## 🔗 www.codehafeez.com
